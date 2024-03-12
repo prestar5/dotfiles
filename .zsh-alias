@@ -1,0 +1,5 @@
+alias btw="pfetch"
+alias i3c="nano ~/.config/i3/config"
+alias polybarc="nano ~/.config/polybar/config.ini"
+
+alias tasroulette='shuf -n 5 ~/Downloads/maps.txt'
